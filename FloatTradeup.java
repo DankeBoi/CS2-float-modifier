@@ -1,7 +1,7 @@
 import java.util.*;
 
 /* Float Tradeup Calculator for CS:GO items
- * By Danké#4094
+ * By DankeBoi
  * Last updated: October 19, 2022
  * 
  * Uses the float calculation formula to turn 10 float inputs into 1 output.
