@@ -1,8 +1,8 @@
 # CS2 Float Tools
-[FloatTradeup](src/FloatTradeup.java)
+[FloatTradeup.java](https://github.com/DankeBoi/CS2-float-tools/blob/main/FloatTradeup.java)
 : Simulation for calculating a new float for trading up to a target item in using the float values of 10 existing items. 
 
-[FloatGenerator](src/FloatGenerator.java)
+[FloatGenerator.java](https://github.com/DankeBoi/CS2-float-tools/blob/main/FloatGenerator.java)
 : Simulation for an item's random float generation using minimum and maximum possible float parameters.
 
 # How to run
